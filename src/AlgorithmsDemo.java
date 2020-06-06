@@ -10,14 +10,9 @@ public class AlgorithmsDemo {
         SearchAlgorithms.run();
         System.out.println("\n---------- END:   Search Algorithms ----------\n");
 
-
         System.out.println("---------- START: Sort Algorithms ----------");
         SortAlgorithms.run();
         System.out.println("\n---------- END:   Sort Algorithms ----------\n");
-
-
-
-
 
     }
 }
