@@ -5,9 +5,10 @@ import java.util.Arrays;
 public class BinarySearch {
 
     /**
-     *
+     * search
      * @param arr
      * @param value
+     * @param recursive
      * @return
      */
     public static int search(int[] arr, int value, boolean recursive) {
@@ -21,13 +22,12 @@ public class BinarySearch {
     }
 
     /**
-     *
+     * binarySearchIterative
      * @param arr
      * @param value
      * @return
      */
     public static int binarySearchIterative(int[] arr, int value) {
-
 
         int low = 0;
         int high = arr.length - 1;

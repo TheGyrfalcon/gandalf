@@ -4,6 +4,7 @@ import com.thegyrfalcon.gandalf.algorithms.search.LinearSearch;
 /**
  * Search Algorithms
  * 1.Linear Search
+ * 2.Binary Search
  */
 public class SearchAlgorithms {
 
